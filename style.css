@@ -1,0 +1,12 @@
+html,
+body {
+   margin: 0;
+   padding: 0;
+   height: 100vh;
+   overflow: hidden;
+   background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+}
+
+* {
+   box-sizing: border-box;
+}
